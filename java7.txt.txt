@@ -1,0 +1,5 @@
+Hey try with resource statement is introduced in java 7
+
+No need to explictity close the resource 
+
+After execution completes in try block then close() method autoimetically called by the jvm.

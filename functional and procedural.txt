@@ -1,0 +1,51 @@
+Imperative styple of programing..
+
+1.Focus on how to peroform the operations
+2.Embraces object mutability
+3.this type of programing list the step by step of instructions on how to achive an objective
+4.we write the code on what needs to be done in each step.
+
+
+Declaritve programing :
+
+1.Focus on what is the result you want
+2.Embraces the object immutability
+3.Anaglous SQL
+4.It uses the Libraries already available to achive the objective.
+
+
+            What is Lambda Experession?
+    
+    Lambda is equivalent to the Function(method) without a name 
+    It is also called as Anonymous Function
+    It also has ->Method parameters
+                ->return type
+                ->Method body
+    Lambda also assigned as variable and passed as parameter.
+
+    syntax : () -> {}
+
+    usage --> lambda is mainly used to implement the Functional interface(SAM)
+        EX for SAM --> Runnable() , and Comparable()
+
+
+
+            What is Functional Interface ?
+
+    Functional interface which has exactly has only one Abstract methods
+
+    @FunctionalInterface ---> Annotation 
+
+            New Features Introduces in Java 8 are :
+
+        1.Predicate    2.Consumer    3.Function       4.Supplier
+
+
+    1.Predicate ---> Bipredicate
+    2.Consumer ---> BiConsumer
+    3.Function ---> BiFunction, UnaryOperator, BinaryOperator
+
+
+
+    
+
